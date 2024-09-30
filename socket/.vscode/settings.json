@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\user\\Downloads\\javax.activation.jar",
+            "c:\\Users\\user\\Downloads\\javax.mail-1.6.2.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\user\\Downloads\\activation-jaf1.1.1.jar"
+        ]
+    }
+}
